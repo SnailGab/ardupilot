@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ardupilot_custom", "Ardupilot_custom\Ardupilot_custom.vcxproj", "{222EF0E8-8DF7-426D-83AF-E1F2474B9DD6}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ArduPilot_Custom", "ArduPilot_Custom\ArduPilot_Custom.vcxproj", "{F1711D83-4ECE-40E4-BA54-7CB54FC7A7CB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,19 +13,19 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{222EF0E8-8DF7-426D-83AF-E1F2474B9DD6}.Debug|x64.ActiveCfg = Debug|x64
-		{222EF0E8-8DF7-426D-83AF-E1F2474B9DD6}.Debug|x64.Build.0 = Debug|x64
-		{222EF0E8-8DF7-426D-83AF-E1F2474B9DD6}.Debug|x86.ActiveCfg = Debug|Win32
-		{222EF0E8-8DF7-426D-83AF-E1F2474B9DD6}.Debug|x86.Build.0 = Debug|Win32
-		{222EF0E8-8DF7-426D-83AF-E1F2474B9DD6}.Release|x64.ActiveCfg = Release|x64
-		{222EF0E8-8DF7-426D-83AF-E1F2474B9DD6}.Release|x64.Build.0 = Release|x64
-		{222EF0E8-8DF7-426D-83AF-E1F2474B9DD6}.Release|x86.ActiveCfg = Release|Win32
-		{222EF0E8-8DF7-426D-83AF-E1F2474B9DD6}.Release|x86.Build.0 = Release|Win32
+		{F1711D83-4ECE-40E4-BA54-7CB54FC7A7CB}.Debug|x64.ActiveCfg = Debug|x64
+		{F1711D83-4ECE-40E4-BA54-7CB54FC7A7CB}.Debug|x64.Build.0 = Debug|x64
+		{F1711D83-4ECE-40E4-BA54-7CB54FC7A7CB}.Debug|x86.ActiveCfg = Debug|Win32
+		{F1711D83-4ECE-40E4-BA54-7CB54FC7A7CB}.Debug|x86.Build.0 = Debug|Win32
+		{F1711D83-4ECE-40E4-BA54-7CB54FC7A7CB}.Release|x64.ActiveCfg = Release|x64
+		{F1711D83-4ECE-40E4-BA54-7CB54FC7A7CB}.Release|x64.Build.0 = Release|x64
+		{F1711D83-4ECE-40E4-BA54-7CB54FC7A7CB}.Release|x86.ActiveCfg = Release|Win32
+		{F1711D83-4ECE-40E4-BA54-7CB54FC7A7CB}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {C62EFEBA-E461-4378-A5AB-1B18EE6D71C2}
+		SolutionGuid = {2DDE3BEB-B74A-4D43-8C81-4D5B7077CE16}
 	EndGlobalSection
 EndGlobal

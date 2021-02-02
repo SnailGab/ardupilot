@@ -22,8 +22,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{222ef0e8-8df7-426d-83af-e1f2474b9dd6}</ProjectGuid>
-    <RootNamespace>Ardupilotcustom</RootNamespace>
+    <ProjectGuid>{f1711d83-4ece-40e4-ba54-7cb54fc7a7cb}</ProjectGuid>
+    <RootNamespace>ArduPilotCustom</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
